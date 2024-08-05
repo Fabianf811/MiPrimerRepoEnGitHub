@@ -35,3 +35,6 @@ p{
     font-size: 1em;
 }
 
+.image_container{
+    max-width: 700px;
+}
