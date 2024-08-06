@@ -39,3 +39,8 @@ p{
 .image_container{
     max-width: 700px;
 }
+
+.img_suelta{
+    max-width: 400px;
+    border: solid #48e;
+}
